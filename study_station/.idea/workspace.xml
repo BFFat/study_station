@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab84c5c6-5695-4bfc-bc70-c329909700dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/Program Files/Java/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="G:\Program Files\Java\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fGexQYQi0D2GVgGbKCWl19YO1v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_acl/src/test/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pang.commonutils" />
+      <recent name="" />
+      <recent name="demo" />
+      <recent name="com.pang.vod.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study_station\service\service_acl\src\test\java" />
+      <recent name="E:\study_station\service\service_order\src\test\java" />
+      <recent name="E:\study_station\service\service_ucenter\src\test\java" />
+      <recent name="E:\study_station\service\service_cms\src\main\resources" />
+      <recent name="E:\study_station\service\service_vod\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install:install-file -Dfile=&lt;G:\jarPackage\httpclientutil-1.0.4.jar&gt;  -DgroupId=&lt;com.arronlong&gt;  -DartifactId=&lt;httpclientutil&gt;  -Dversion=&lt;1.0.4&gt;  -Dpackaging=&lt;Jar&gt; " />
+      <command value="mvn install:install-file -Dfile=&lt;G:\jarPackage\httpclientutil-1.0.4.jar&gt; -DgroupId=&lt;com.arronlong&gt; -DartifactId=&lt;httpclientutil&gt; -Dversion=&lt;1.0.4&gt; -Dpackaging=&lt;Jar&gt; " />
+      <command value="mvn install:install-file -Dfile=&lt;..\G:\jarPackage\httpclientutil-1.0.4.jar&gt; -DgroupId=&lt;com.arronlong&gt; -DartifactId=&lt;httpclientutil&gt; -Dversion=&lt;1.0.4&gt; -Dpackaging=&lt;Jar&gt; " />
+      <command value="mvn install:install-file -Dfile=&lt;E:\jarPackage\httpclientutil-1.0.4.jar&gt; -DgroupId=&lt;com.arronlong&gt; -DartifactId=&lt;httpclientutil&gt; -Dversion=&lt;1.0.4&gt; -Dpackaging=&lt;Jar&gt; " />
+      <command value="mvn install:install-file -Dfile=G:\jarPackage\httpclientutil-1.0.4.jar -DgroupId=com.arronlong -DartifactId=httpclientutil -Dversion=1.0.4 -Dpackaging=Jar " />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CodeGenerator.run (3)">
+    <configuration name="CodeGenerator.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator.run (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator.run (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_acl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pang.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pang.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.pang.demo.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pang.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.api.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="canal_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.canal.CanalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.cms.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_edu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.edu.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.msm.MsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_statistics" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.sta.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.ucenter.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pang.vod.VodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CodeGenerator.run" />
+      <item itemvalue="JUnit.CodeGenerator.run (1)" />
+      <item itemvalue="JUnit.CodeGenerator.run (2)" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.MsmApplication" />
+      <item itemvalue="Spring Boot.VodApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+      <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Spring Boot.StaApplication" />
+      <item itemvalue="Spring Boot.CanalApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="JUnit.CodeGenerator.run (3)" />
+      <item itemvalue="Spring Boot.UcenterApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CodeGenerator.run (3)" />
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="JUnit.CodeGenerator.run (2)" />
+        <item itemvalue="JUnit.CodeGenerator.run (1)" />
+        <item itemvalue="JUnit.CodeGenerator.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab84c5c6-5695-4bfc-bc70-c329909700dd" name="Default Changelist" comment="" />
+      <created>1595849103045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595849103045</updated>
+      <workItem from="1595849107520" duration="5333000" />
+      <workItem from="1595921011174" duration="11619000" />
+      <workItem from="1596002809770" duration="13311000" />
+      <workItem from="1596089849227" duration="18533000" />
+      <workItem from="1596179248787" duration="3026000" />
+      <workItem from="1596441144672" duration="7481000" />
+      <workItem from="1596514983156" duration="17317000" />
+      <workItem from="1596608309385" duration="17147000" />
+      <workItem from="1596684542320" duration="17425000" />
+      <workItem from="1596771415303" duration="8685000" />
+      <workItem from="1596893279093" duration="5123000" />
+      <workItem from="1597038112210" duration="25146000" />
+      <workItem from="1597127767973" duration="11224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" width="1072" height="682" key="#Project_Structure" timestamp="1597135843127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" width="1072" height="682" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1597135843127" />
+    <state x="746" y="132" width="1174" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596688214605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="132" width="1174" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596688214605" />
+    <state x="142" y="460" key="#com.intellij.ide.util.MemberChooser" timestamp="1597136588974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="142" y="460" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597136588974" />
+    <state x="559" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597140712751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597140712751" />
+    <state x="262" y="314" width="440" height="479" key="FileChooserDialogImpl" timestamp="1597041035579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="262" y="314" width="440" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597041035579" />
+    <state width="1380" height="147" key="GridCell.Tab.0.bottom" timestamp="1597136526191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1380" height="147" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597136526191" />
+    <state width="1380" height="147" key="GridCell.Tab.0.center" timestamp="1597136526191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1380" height="147" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597136526191" />
+    <state width="1380" height="147" key="GridCell.Tab.0.left" timestamp="1597136526191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1380" height="147" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597136526191" />
+    <state width="1380" height="147" key="GridCell.Tab.0.right" timestamp="1597136526191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1380" height="147" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597136526191" />
+    <state width="1719" height="91" key="GridCell.Tab.1.bottom" timestamp="1597040635924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1719" height="91" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597040635924" />
+    <state width="1719" height="91" key="GridCell.Tab.1.center" timestamp="1597040635924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1719" height="91" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597040635924" />
+    <state width="1719" height="91" key="GridCell.Tab.1.left" timestamp="1597040635924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1719" height="91" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597040635924" />
+    <state width="1719" height="91" key="GridCell.Tab.1.right" timestamp="1597040635924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1719" height="91" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597040635924" />
+    <state x="774" y="235" key="Maven.ArtifactSearchDialog" timestamp="1596625140161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="235" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596625140161" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1597043481903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597043481903" />
+    <state x="1023" y="439" key="com.intellij.ide.util.TipDialog" timestamp="1597133405781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1023" y="439" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597133405781" />
+    <state x="658" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595921997779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1595921997779" />
+    <state x="1024" y="190" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597137217672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1024" y="190" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597137217672" />
+    <state x="669" y="340" width="1251" height="570" key="new project wizard" timestamp="1597135778627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="340" width="1251" height="570" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597135778627" />
+    <state x="665" y="190" width="672" height="677" key="run.anything.popup" timestamp="1597046505424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="190" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597046505423" />
+    <state x="967" y="378" width="672" height="678" key="search.everywhere.popup" timestamp="1597154333191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="967" y="378" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597154333190" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5.jar!/com/baomidou/mybatisplus/core/conditions/interfaces/Compare.class</url>
+          <line>54</line>
+          <properties class="com.baomidou.mybatisplus.core.conditions.interfaces.Compare" method="ge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
