@@ -22,7 +22,7 @@ public class TestVod {
     public void testGetVideoPlayAuth() throws ClientException {
 
         //初始化客户端、请求对象和相应对象
-        DefaultAcsClient client = AliyunVodSDKUtils.initVodClient("LTAI4GBsFihC52qz927yzute", "MDuFxYrN5UcPOjbqerR65xijfe2tHY");
+        DefaultAcsClient client = AliyunVodSDKUtils.initVodClient("", "");
         GetVideoPlayAuthRequest request = new GetVideoPlayAuthRequest();
         GetVideoPlayAuthResponse response = new GetVideoPlayAuthResponse();
 
@@ -53,7 +53,7 @@ public class TestVod {
     public void testGetPlayInfo() throws ClientException {
 
         //初始化客户端、请求对象和相应对象
-        DefaultAcsClient client = AliyunVodSDKUtils.initVodClient("LTAI4GBsFihC52qz927yzute", "MDuFxYrN5UcPOjbqerR65xijfe2tHY");
+        DefaultAcsClient client = AliyunVodSDKUtils.initVodClient("", "");
         GetPlayInfoRequest request = new GetPlayInfoRequest();
         GetPlayInfoResponse response = new GetPlayInfoResponse();
 
@@ -90,8 +90,8 @@ public class TestVod {
         String fileName = "G:\\offer\\尚硅谷谷粒学院项目视频教程\\项目资料\\1-阿里云上传测试视频\\6 - What If I Want to Move Faster.mp4";
         //本地文件上传
 
-        String accessKeyId = "LTAI4GBsFihC52qz927yzute";
-        String accessKeySecret = "MDuFxYrN5UcPOjbqerR65xijfe2tHY";
+        String accessKeyId = "";
+        String accessKeySecret = "";
         UploadVideoRequest request = new UploadVideoRequest(accessKeyId, accessKeySecret, title, fileName);
         /* 可指定分片上传时每个分片的大小，默认为1M字节 */
         request.setPartSize(1 * 1024 * 1024L);
@@ -115,7 +115,7 @@ public class TestVod {
     }
 
     public static void getPlayAuth() throws Exception{
-        DefaultAcsClient client = AliyunVodSDKUtils.initVodClient("LTAI4GBsFihC52qz927yzute", "MDuFxYrN5UcPOjbqerR65xijfe2tHY");
+        DefaultAcsClient client = AliyunVodSDKUtils.initVodClient("", "");
         GetVideoPlayAuthRequest request = new GetVideoPlayAuthRequest();
         GetVideoPlayAuthResponse response = new GetVideoPlayAuthResponse();
         request.setVideoId("24485e9822e043299dcb6f88147e356a");
